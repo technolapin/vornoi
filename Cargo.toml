@@ -1,0 +1,9 @@
+[package]
+name = "voroid"
+version = "0.1.0"
+authors = ["clement"]
+edition = "2018"
+
+[dependencies]
+rand="*"
+image="*"
